@@ -1,0 +1,15 @@
+body {
+    background-image: url("../../imagem.png");
+    background-repeat:no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.teste {
+    text-align: center;
+}  
+
+hr{
+    height: 5px;
+    background-color: rgb(29, 130, 218);
+}
